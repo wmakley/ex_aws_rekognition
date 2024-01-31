@@ -27,6 +27,7 @@ ex_aws_rekognition-*.tar
 
 # Secrets
 .env
+/config/rekognition_local_test.exs
 
 # Editors
 .vscode
