@@ -24,3 +24,15 @@ ex_aws_rekognition-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Secrets
+.env
+
+# Editors
+.vscode
+.idea
+
+# OS cruft
+Thumbs.db
+._*
+.DS_Store
